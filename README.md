@@ -28,5 +28,5 @@ To become a skilled cybersecurity professional who can help protect systems, inf
 LinkedIn:(https://www.linkedin.com/in/elizabethcyber/)
 TryHackMe: https://tryhackme.com/p/elizabethyakubu570
 Email: elizabethyakubu570@gmail.com
-\View my Innovation Portfolio (./INNOVATION_PORTFOLIO.md)
+[\View my Innovation Portfolio] (./INNOVATION_PORTFOLIO.md)
 Always learning. Always building. Always improving.
